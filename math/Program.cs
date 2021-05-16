@@ -25,6 +25,7 @@ namespace HelloWorld
             Console.WriteLine("3. Multiplicação ");
             Console.WriteLine("4. Divisão ");
             Console.WriteLine("---------------- ");
+            Console.WriteLine("---------------- ");
 
             if (op == 5)
             {
